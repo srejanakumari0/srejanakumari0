@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @srejanakumari0
+- 👀 I’m interested in software engineering and coding
+- 🌱 Honed my skills in Java, Javascript, C#, Python
+- 💞️ I’m looking to collaborate on Coding project
+- 📫 How to reach me Linkedin - https://www.linkedin.com/in/srejana-kumari-55347b324
+- ⚡ Mail: srejanakumari@gmail.com
